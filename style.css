@@ -1,0 +1,50 @@
+body {
+	padding: 0;
+	margin: 0;
+	background-color: #345c9b;
+	text-align: center;
+	font-family: Arial;
+	color: white;
+}
+header {
+	margin: 70px;
+	}
+.box {
+	margin-bottom: 100px;
+	}
+button {
+	display: block;
+	margin: 60px auto;
+    width: 300px;
+   	font-size: 18px;
+    border: 2px solid white;
+ 	cursor: pointer;
+ 	padding: 10px;
+	background-color: #345c9b;
+ 	color: white;
+ 	font-weight: 400;
+}
+ button:hover {
+ 	background-color: #7c97c3;
+ }
+  .tweet {            
+    border: 2px solid white;
+    border-radius: 2px;
+    padding: 10px;
+    width: 290px;
+    color: white;
+    display: block;
+  	margin: 40px auto;
+ 	font-size: 18px;
+  	font-weight: 400;
+  	text-decoration: none;
+  	margin-bottom: 100px;
+  }
+  .tweet:hover {
+ 	background-color: #7c97c3;
+ 	text-decoration: underline;
+	}
+	i {
+		color: white;
+	}
+ 
